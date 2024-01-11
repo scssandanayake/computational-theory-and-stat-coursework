@@ -9,7 +9,8 @@ This repository was created for computational theory and stat coursework.
 4) If not downloaded please click the download icon in status bar.
 
 ## How to view the python script
-1) First go to the file located folder.
+1) First click the file located folder. <br>
+   ( ex:- Task 1 code file / Task 2 code file )
 2) Then click on the python file name.
 3) Now you can view the python code.
 
