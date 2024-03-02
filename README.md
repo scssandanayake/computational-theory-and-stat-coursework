@@ -14,4 +14,10 @@ This repository was created for computational theory and stat coursework.
 2) Then click on the python file name.
 3) Now you can view the python code.
 
+Excel sheet (view online) - <Br>
+https://nsbm365-my.sharepoint.com/:x:/g/personal/scssandanayake_students_nsbm_ac_lk/EQ9RWoyfD0FIlexCztOFFd0Bxw7UzsgmDweGLBychUUFPA?e=TBPjnr
+
+Figma Design link - <Br>
+https://www.figma.com/file/t1shFomyJNWbb8XvPBEAfX/stat-coursework?type=design&node-id=0%3A1&mode=design&t=nbKxzJVfT4zPnzth-1
+
 # Thank You.
